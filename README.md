@@ -3,9 +3,9 @@
 
 Here are all the functions you can use:
 
-        String ListFoldersWithJson();
-  
-        String ListFolders();
+        string ListFoldersWithJson();
+        
+        string ListFolders();
         
         string ListFiles(string directoryName);
 
