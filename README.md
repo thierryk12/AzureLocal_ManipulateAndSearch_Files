@@ -1,5 +1,6 @@
 # AzureLocal_ManipulateAndSearch_Files
 
+
 Here are all the functions you can use:
 
         String ListFoldersWithJson();
